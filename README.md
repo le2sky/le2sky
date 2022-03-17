@@ -46,5 +46,6 @@
 <a href="https://mail.google.com/"><img src="https://img.shields.io/badge/Gmail-D14836?&logo=Gmail&logoColor=white"/></a>
 <a href="https://le2sky.github.io/"><img src="https://img.shields.io/badge/Tech Blog-FFFFFF?&logo=Github&logoColor=black"/></a></p>
 
+<img src="https://github.com/le2sky/le2sky/blob/output/github-contribution-grid-snake.svg" />
 </div>
    
