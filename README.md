@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/OWASP API Security -white?&logo=OWASP&logoColor=black"/></a>
 </div>
  
- 
+  
 <div>
 <img src="https://img.shields.io/badge/Docker-0db7ed?&logo=docker&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/AWS-232F3E?&logo=AmazonAWS&logoColor=white"/></a>
