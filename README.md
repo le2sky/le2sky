@@ -3,7 +3,8 @@
 <img src="./test.gif"/>
 </p>
     
-      
+
+
     
 <div align="center"> 
  
@@ -44,8 +45,12 @@
  <h4>More🔎</h4>
 <a href="https://www.instagram.com/lee.___.sky/"><p align="center"><img src="https://img.shields.io/badge/Instagram-E4405F?&logo=instagram&logoColor=white"/></a></a>
 <a href="https://mail.google.com/"><img src="https://img.shields.io/badge/Gmail-D14836?&logo=Gmail&logoColor=white"/></a>
-<a href="https://le2sky.github.io/"><img src="https://img.shields.io/badge/Tech Blog-FFFFFF?&logo=Github&logoColor=black"/></a></p>
+<a href="https://medium.com/@leehaneul0623"><img src="https://img.shields.io/badge/medium-FFFFFF?&logo=Medium&logoColor=black"/></a></p>
+
+ [![trophy](https://github-profile-trophy.vercel.app/?username=le2sky&rank=-B,-C&theme=nord&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <img src="https://github.com/le2sky/le2sky/blob/output/github-contribution-grid-snake.svg" />
+
 </div>
    
