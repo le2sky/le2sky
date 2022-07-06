@@ -31,7 +31,7 @@
   
 <div>
 <img src="https://img.shields.io/badge/Docker-0db7ed?&logo=docker&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/kubernetes-ffffff?&logo=kubernetes&logoColor=#326ce5"/></a>
+<img src="https://img.shields.io/badge/kubernetes-326ce5?&logo=kubernetes&logoColor=ffffff"/></a>
 <img src="https://img.shields.io/badge/AWS-232F3E?&logo=AmazonAWS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Travis CI-3EAAAF?&logo=TravisCI&logoColor=white"/></a>
 </div>
