@@ -46,11 +46,12 @@
  <h4>More🔎</h4>
 <a href="https://www.instagram.com/lee.___.sky/"><p align="center"><img src="https://img.shields.io/badge/Instagram-E4405F?&logo=instagram&logoColor=white"/></a></a>
 <a href="https://mail.google.com/"><img src="https://img.shields.io/badge/Gmail-D14836?&logo=Gmail&logoColor=white"/></a>
-<a href="https://medium.com/@leehaneul0623"><img src="https://img.shields.io/badge/medium-FFFFFF?&logo=Medium&logoColor=black"/></a></p>
-
-
+<a href="https://medium.com/@leehaneul0623"><img src="https://img.shields.io/badge/medium-FFFFFF?&logo=Medium&logoColor=black"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fle2sky%2Fhit-counter&count_bg=%23352021&title_bg=%2365B4C2&icon=grav.svg&icon_color=%23E7E7E7&title=&edge_flat=false"/></a>
+</p>
 
 <img src="https://github.com/le2sky/le2sky/blob/output/github-contribution-grid-snake.svg" />
+
 
 </div>
    
