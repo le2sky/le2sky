@@ -1,9 +1,11 @@
 <p align="center"
+
 <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/le2sky"
-  width="600"
-  height="300"
-/>
+  <img
+    src="https://render.gitanimals.org/lines/le2sky"
+    width="600"
+    height="200"
+  />
 </a>
+  
 </p>
